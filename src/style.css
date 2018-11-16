@@ -1,0 +1,25 @@
+.bottom-part2 {
+    margin: 2rem 0 0 0 !important;
+}
+.bottom-part2 .summary-table {
+    margin: 1rem 0 0 0;
+    padding: 0.2rem 0;
+}
+.bottom-part2 .summary-table .react-tabs__tab-list .see-all {
+    float: right;
+    margin: 0 1rem 0 0;
+}
+.bottom-part2 .summary-table .react-tabs__tab-list .react-tabs__tab h5 {
+    margin: 0;
+}
+.bottom-part2 .summary-table .-pagination {
+    display: none !important;
+}
+.bottom-part2 .summary-table h5 .see-all {
+    float: right;
+}
+.bottom-part2 .summary-table .table-bottom {
+    padding: 1rem;
+    text-align: center;
+    border-top: 1px solid #EDF0F5;
+}
